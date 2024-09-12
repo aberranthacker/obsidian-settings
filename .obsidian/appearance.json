@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Sanctum",
+  "monospaceFontFamily": "IBM Plex Mono,Source Code Pro for Powerline",
+  "theme": "moonstone",
+  "baseFontSize": 14,
+  "textFontFamily": "Fira Mono for Powerline",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "increase-monospace-font",
+    "default-image-size",
+    "increase-math-font"
+  ]
+}

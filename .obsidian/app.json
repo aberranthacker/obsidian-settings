@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": null,
+  "vimMode": true,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "autoPairMarkdown": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "base",
+  "attachmentFolderPath": "files",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "useTab": false,
+  "fileSortOrder": "alphabeticalReverse",
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true
+}

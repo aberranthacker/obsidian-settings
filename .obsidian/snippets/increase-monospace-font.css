@@ -1,0 +1,9 @@
+/* Global Monospace Font Size Adjustment */
+body {
+    --code-size: 1em;
+}
+
+.HyperMD-codeblock-begin,
+.HyperMD-codeblock-end {
+    --code-size: 0.75em;
+}
